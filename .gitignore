@@ -1,0 +1,32 @@
+# Database configuration (sensitive)
+db.php
+config.php
+
+# XAMPP/Local server files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+desktop.ini
+.directory
+
+# Node modules (if using any)
+node_modules/
+package-lock.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
