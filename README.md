@@ -55,6 +55,10 @@ login-authentication-system/
 ├── database.sql          - Database Schema
 └── README.md             - Documentation
 
+
+
+
+
 ## Installation & Setup
 
 ### Step 1: Install XAMPP Server
