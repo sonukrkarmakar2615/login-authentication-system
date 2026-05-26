@@ -41,18 +41,19 @@ A complete Login, Sign Up and Sign In Authentication System developed using Fron
 
 ```
 login-authentication-system/
-├── index.html           # Login page
-├── signup.html          # Sign up page
-├── dashboard.php        # Dashboard after login
-├── login.php            # Login backend
-├── signup.php           # Registration backend
-├── logout.php           # Logout functionality
-├── style.css            # CSS styling
-├── script.js            # JavaScript validation
-├── db.php               # Database connection
-├── database.sql         # Database schema
-└── README.md            # Project documentation
-```
+├── landing.html          ✨ NEW - Landing/Home Page
+├── chatbot.html          ✨ NEW - AI Chatbot Support
+├── index.html            - Login Page
+├── signup.html           - Sign Up Page
+├── dashboard.php         - User Dashboard
+├── login.php             - Login Backend
+├── signup.php            - Registration Backend
+├── logout.php            - Logout Functionality
+├── style.css             - CSS Styling
+├── script.js             - JavaScript
+├── db.php                - Database Connection
+├── database.sql          - Database Schema
+└── README.md             - Documentation
 
 ## Installation & Setup
 
